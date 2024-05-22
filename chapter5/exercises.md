@@ -54,5 +54,3 @@ Since $t_c > t_m$, this kernel is compute-bound.
 
 # 10
 
-
-
